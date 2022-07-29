@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\bin\Debug\net6.0\menu-interactivo-con-funciones.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\bin\Debug\net6.0\menu-interactivo-con-funciones.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\bin\Debug\net6.0\menu-interactivo-con-funciones.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\bin\Debug\net6.0\menu-interactivo-con-funciones.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\bin\Debug\net6.0\menu-interactivo-con-funciones.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\refint\menu-interactivo-con-funciones.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\menu-interactivo-con-funciones.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 14-Menu interactivo con funciones\menu-interactivo-con-funciones\obj\Debug\net6.0\ref\menu-interactivo-con-funciones.dll
